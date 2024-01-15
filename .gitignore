@@ -4,3 +4,8 @@ jspm_packages/
 
 #Mac files
 .DS_Store
+
+# Env files
+.env
+.env.local
+.env.dev
